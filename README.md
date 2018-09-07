@@ -76,15 +76,15 @@
 
 <br><br>
 
-<img src="https://pic.pimg.tw/mitsu09/b12b72e95c1aa673a90c3f5e667a6298_n.png"height="408" width="600">
+<img src="https://pic.pimg.tw/mitsu09/b12b72e95c1aa673a90c3f5e667a6298_n.png" height="408" width="600">
 
 <p>像是<b><font face="微軟正黑體" color="000000" size="5">這樣！</font></b></p>
 
-<img src="https://truth.bahamut.com.tw/s01/201301/809e4089785c8e7eb33c63316955043d.JPG"height="408" width="600">
+<img src="https://truth.bahamut.com.tw/s01/201301/809e4089785c8e7eb33c63316955043d.JPG" height="408" width="600">
 
 <p><b><font face="微軟正黑體" color="000000" size="5">這樣！！</font></b></p>
 
-‪<img src="http://pic.pimg.tw/lotuseater/1318747801-4264431334.jpg"height="408" width="600">
+‪<img src="http://pic.pimg.tw/lotuseater/1318747801-4264431334.jpg" height="408" width="600">
 
 <p><b><font face="微軟正黑體" color="000000" size="6">還有這樣！！！</font></b></p>
 
